@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.fnst.smartwork</string>
+                <string>fir.mypger.TsyApp</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>qqq.ipa</string>
+                <string>feiban</string>
             </dict>
         </dict>
     </array>
